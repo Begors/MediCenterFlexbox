@@ -365,12 +365,38 @@ footer .tweets_seta {
     .banner_headline h1 {
         font-size: 55px;
     }
+
     .banner_headline h2 {
         font-size: 17px;
     }
+
     .banner_options {
         height: auto;
         flex-direction: column;
     }
 
+    .container {
+        flex-direction: column;
+    }
+    
+    #geral section,
+    #geral aside{
+        padding: 0 20px 0 20px;
+    }
+    #geral{
+        margin-top: 150px;
+    }
+    .footer_menu{
+        flex-direction: column;
+        padding: 20px;
+    }
+    .footer_areaitem{
+        padding: 0 20px 0 20px;
+        flex-direction: column;
+    }
+
+    .footer_copy{
+        padding-left: 20px;
+    }
 }
+/*---Aula_10__min_11---->
