@@ -398,5 +398,95 @@ footer .tweets_seta {
     .footer_copy{
         padding-left: 20px;
     }
+    .widget{
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+    }
+    .appoint_text{
+        padding: 0 20px 0 20px;
+    }
+    header .container{
+        flex-direction: row;
+    }
+/*------------------------------------------*/
+
+.banner_headline h1 {
+    font-size: 55px;
 }
-/*---Aula_10__min_11---->
+.banner_headline h2 {
+    font-size: 17px;
+}
+.banner_headline {
+    padding: 20px;
+}
+.banner_options {
+    height: auto;
+    flex-direction: column;
+}
+section {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+section #geral {
+    margin-top: 150px;
+}
+
+aside #geral  {
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.footer_menu {
+    flex-direction: column;
+}
+.footer_area {
+    flex-direction: column;
+}
+footer .latest_container1 {
+    justify-content: flex-start;
+}
+#widget_lastest {
+  padding-top: 220px;
+  padding-bottom: 0;
+}
+#widget_departments {
+  padding-top: 0;
+}
+#widget_appoint {
+  padding-top: 0;
+  padding-bottom: 20px;
+}
+.widget.footer {
+  padding-top: 0;
+}
+
+nav ul {
+    flex-direction: column;
+    display: none;
+
+}
+header {
+    height: auto;
+}
+.logo {
+    padding-left: 20px;
+}
+.menuMobile {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around
+}
+nav ul {
+    padding-inline-start: 0px;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+}
+/*------------------------------------------*/
+
+
+}
+/*---Aula_10__min_11----*/
