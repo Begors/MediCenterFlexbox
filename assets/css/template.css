@@ -143,6 +143,7 @@ nav a:hover {
 }
 #geral aside {
     flex: 1;
+    flex-direction: column;
 }
 .widget_body{
     display: flex;
