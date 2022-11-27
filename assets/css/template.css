@@ -5,7 +5,7 @@
 body{
     margin: 0;
     padding: 0;
-    overflow-x:hidden;
+    overflow-x: hidden;
 }
 header {
     display: flex;
@@ -404,6 +404,10 @@ footer .tweets_seta {
     .footer_menu{
         flex-direction: column;
         padding: 20px;
+    }
+    .footer_area{
+        padding: 0 20px 0 20px;
+        flex-direction: column;
     }
     .footer_areaitem{
         padding: 0 20px 0 20px;
